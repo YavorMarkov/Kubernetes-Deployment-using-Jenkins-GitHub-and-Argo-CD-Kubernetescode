@@ -52,5 +52,6 @@ By the end of this setup, we achieve a fully automated CI/CD pipeline where code
 A detailed video demonstration of this project walks through each step, explaining the configuration, the rationale behind the setup, and showcasing the end-to-end automation in action. 
 
 ---
+https://github.com/YavorMarkov/Kubernetes-Deployment-using-Jenkins-GitHub-and-Argo-CD-kubernetesmanifest.git
 
 This README provides a structured overview of the project, encapsulating the major aspects, the setup, and the workflow in a concise manner.
