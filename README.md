@@ -48,8 +48,6 @@ In this project, we demonstrate an automated deployment pipeline to deploy an ap
 ## Outcome:
 By the end of this setup, we achieve a fully automated CI/CD pipeline where code changes are seamlessly deployed to the Kubernetes cluster without any manual intervention, illustrating the power of integrating Jenkins, GitHub, and Argo CD in a Kubernetes environment.
 
-## Demonstration:
-A detailed video demonstration of this project walks through each step, explaining the configuration, the rationale behind the setup, and showcasing the end-to-end automation in action. 
 
 ---
 
