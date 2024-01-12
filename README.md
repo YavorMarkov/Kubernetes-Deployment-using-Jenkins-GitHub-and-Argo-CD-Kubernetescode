@@ -12,7 +12,7 @@ In this project, we demonstrate an automated deployment pipeline to deploy an ap
 - Jenkins installation and job setup.
 - Argo CD installation and setup.
 - Automating GitHub to Jenkins using webhook.
-- Zero touch end-to-end automation, achieving a state of nirvana.
+- Zero touch end-to-end automation.
 
 ## Repositories:
 1. **Kubernetes Code Repository**: Contains `app.py` (simple Flask application) and Dockerfile to dockerize the application.
